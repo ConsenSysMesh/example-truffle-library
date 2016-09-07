@@ -1,0 +1,19 @@
+{
+  "name": "example-truffle-library",
+  "version": "1.0.0",
+  "description": "Example project showing how to use Truffle to build libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Coulter <tim@timothyjcoulter.com> (http://timothyjcoulter.com)",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^0.16.0"
+  },
+  "devDependencies": {
+    "bip39": "^2.2.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "web3-provider-engine": "^8.0.4"
+  }
+}
